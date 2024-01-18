@@ -16,9 +16,6 @@
 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/l%C3%AA-v%C4%83n-l%C6%B0%C6%A1ng-029806258/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luonglevan"/>
- </a>
  <a href="https://www.instagram.com/toilaeddie/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="luonglevan" />
  </a> 
